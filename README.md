@@ -6,7 +6,7 @@
 
 ---
 
-## 📸 Screenshots-->check out Screenshot folder
+## 📸 Screenshots
 
 ### 1. AskMyDocs Home
 The landing page where users can upload a PDF document.
