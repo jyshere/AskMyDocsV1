@@ -10,19 +10,19 @@
 
 ### 1. AskMyDocs Home
 The landing page where users can upload a PDF document.
-![AskMyDocs Home](screenshots/home.png)
+![AskMyDocs Home](Screenshot/home.png)
 
 ---
 
 ### 2. Document Uploaded
 After uploading a PDF, AskMyDocs processes the document and displays the uploaded file along with its processing status.
-![Document Uploaded](screenshots/uploaded-document.png)
+![Document Uploaded](Screenshot/uploaded-document.png)
 
 ---
 
 ### 3. Question & AI Answer
 Users can ask questions about the uploaded document and receive an AI-generated answer based on the relevant document content.
-![Question and Answer](screenshots/question-answer.png)
+![Question and Answer](Screenshot/question-answer.png)
 
 ---
 
